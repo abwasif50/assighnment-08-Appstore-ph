@@ -1,16 +1,37 @@
-# React + Vite
+# App Store
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+App Store is a modern React-based web application that displays a collection of popular apps like Facebook, Instagram, YouTube, and more — with detailed pages for each app including ratings, reviews, downloads, and descriptions.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Features
 
-## React Compiler
+-  Dynamic routing using **React Router**
+-  JSON-based data management
+-  Fully responsive UI built with **Tailwind CSS**
+-  Interactive app details page
+-  Custom error pages for invalid routes or missing app IDs
+-  Clean layout and modern font styling
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+# Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+| Category | Technology |
+|-----------|-------------|
+| Frontend | React.js (Vite) |
+| Styling | Tailwind CSS |
+| Routing | React Router DOM |
+| Data | JSON File |
+| Icons & Images | Wikimedia / Custom Assets |
+| Version Control | Git & GitHub |
+
+---Project Structure
+
+src/
+ ├── assets/        → Images & logos  
+ ├── components/    → Reusable UI parts (Navbar, Footer, etc.)  
+ ├── pages/         → All pages (Home, AllApps, AppDetails, ErrorPage)  
+ ├── data/          → appsData.json  
+ ├── App.jsx        → Main app component  
+ └── main.jsx       → Entry point
