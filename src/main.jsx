@@ -2,15 +2,17 @@ import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import "./index.css";
+
 import App from "./App.jsx";
 import MainLayout from "./Layout/MainLayout.jsx";
 import Home from "./pages/Home.jsx";
+
 import AllApps from "./pages/AllApps.jsx";
 import AppDetails from "./pages/AppDetails.jsx";
  import MyInstallation from "./pages/MyInstallation.jsx";
  import ErrorPage from "./pages/ErrorPage.jsx";
 
-// Define routes using Data Router
+
 const router = createBrowserRouter([
   {
     path: "/",
