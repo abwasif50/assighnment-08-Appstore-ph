@@ -13,6 +13,8 @@ const Navbar = () => {
 
   return (
     <nav className="bg-white shadow-md py-3">
+
+      
       <div className="container mx-auto flex items-center justify-between px- py-3">
         
         <div
@@ -28,6 +30,7 @@ const Navbar = () => {
             <NavLink
               key={link.name}
               to={link.path}
+
               className={({ isActive }) =>
                 isActive
                   ? "text-purple-700 font-semibold border-b-2 border-purple-700"
@@ -47,7 +50,7 @@ const Navbar = () => {
             rel="noopener noreferrer"
             className="btn text-white bg-[#9f62f2] "
           >
-           <img className="w-[30px] rounded-3xl " src={githubimg} alt="" /> Contribute
+           <img className="w-[30px] rounded-3xl " src={githubimg} alt="" />Contribute
           </a>
     </div>
       </div>
