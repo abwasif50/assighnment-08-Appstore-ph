@@ -1,0 +1,517 @@
+[
+  {
+    "id": 1,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg",
+    "title": "Facebook",
+    "companyName": "Meta Platforms, Inc.",
+    "description": "Connect with friends, family, and communities around the world. Share updates, photos, and videos instantly. Join interest-based groups, follow trends, and discover events near you. Keep track of memories with timeline features. Engage with posts through comments, likes, and reactions. Personalize your feed to see content that matters most.",
+    "size": 60,
+    "reviews": 92,
+    "ratingAvg": 4.2,
+    "downloads": 500,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 1200000 },
+      { "name": "3 star", "count": 3400000 },
+      { "name": "4 star", "count": 12000000 },
+      { "name": "5 star", "count": 75000000 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png",
+    "title": "Instagram",
+    "companyName": "Meta Platforms, Inc.",
+    "description": "Share your life through photos, videos, and stories. Explore content from creators, friends, and celebrities worldwide. Send private messages, react to stories, and engage with reels. Follow trends and hashtags that match your interests. Edit and enhance your posts with creative tools. Discover new communities and experiences every day.",
+    "size": 80,
+    "reviews": 83,
+    "ratingAvg": 4.5,
+    "downloads": 45,
+    "ratings": [
+      { "name": "1 star", "count": 700000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 2500000 },
+      { "name": "4 star", "count": 10000000 },
+      { "name": "5 star", "count": 68000000 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+    "title": "WhatsApp Messenger",
+    "companyName": "WhatsApp LLC",
+    "description": "Send messages, voice notes, photos, and videos instantly and securely. Make high-quality voice and video calls anywhere in the world. Create group chats with friends, family, or colleagues. Share documents, links, and media effortlessly. Enjoy end-to-end encryption for complete privacy. Stay connected anytime with notifications and status updates.",
+    "size": 45,
+    "reviews": 12,
+    "ratingAvg": 4.6,
+    "downloads": 50,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 1200000 },
+      { "name": "3 star", "count": 3000000 },
+      { "name": "4 star", "count": 15000000 },
+      { "name": "5 star", "count": 104000000 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "description": "Watch, stream, and share videos across the globe. Explore channels, playlists, and trending content. Subscribe to creators and receive notifications for new uploads. Upload your own videos and manage your channel. Engage with communities through comments, likes, and shares. Discover live events, tutorials, music, and entertainment at any time.",
+    "size": 90,
+    "reviews": 17,
+    "ratingAvg": 4.3,
+    "downloads": 10,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 3500000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "5 star", "count": 137000000 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "description": "Listen to millions of songs, albums, and playlists from around the world. Discover podcasts, personalized daily mixes, and curated recommendations. Follow your favorite artists and share music with friends. Explore new genres and trending tracks. Enjoy offline playback and high-quality streaming. Customize your experience with playlists and saved favorites.",
+    "size": 65,
+    "reviews": 96,
+    "ratingAvg": 4.5,
+    "downloads": 10,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 800000 },
+      { "name": "3 star", "count": 2500000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 84000000 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png",
+    "title": "Pinterest",
+    "companyName": "Pinterest, Inc.",
+    "description": "Discover and save ideas for home decor, recipes, fashion, and more. Explore boards and collections shared by users worldwide. Follow your favorite creators and get daily inspiration. Organize pins for projects, events, or hobbies. Share ideas with friends and communities. Experience a platform for creativity and endless inspiration every day.",
+    "size": 40,
+    "reviews": 27,
+    "ratingAvg": 4.7,
+    "downloads": 10,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 21500000 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg",
+    "title": "X (Twitter)",
+    "companyName": "X Corp.",
+    "description": "Stay updated with real-time news, trends, and conversations worldwide. Follow topics, users, and communities that interest you. Tweet, like, retweet, and reply to engage with others. Share multimedia content including photos, videos, and polls. Participate in global discussions and live events. Connect with friends and explore trending hashtags and stories.",
+    "size": 55,
+    "reviews": 68,
+    "ratingAvg": 4.1,
+    "downloads": 100,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 2500000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 10000000 },
+      { "name": "5 star", "count": 45000000 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Google_Maps_Logo_2020.svg",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "description": "Navigate your world with ease and precision. Find directions for driving, walking, cycling, and public transport. Explore nearby businesses, restaurants, and attractions. Get real-time traffic updates and estimated arrival times. Save favorite locations and share maps with friends. Discover local insights and user reviews while planning your trips.",
+    "size": 120,
+    "reviews": 115,
+    "ratingAvg": 4.4,
+    "downloads": 100,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 6000000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "5 star", "count": 83000000 }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Google_Drive_icon_%282020%29.svg",
+    "title": "Google Drive",
+    "companyName": "Google LLC",
+    "description": "Store and access your files securely from anywhere. Share documents, spreadsheets, and presentations with friends or colleagues. Collaborate in real-time on projects. Backup important files and media. Organize your drive with folders and labels. Enjoy fast search and cloud synchronization across devices.",
+    "size": 90,
+    "reviews": 54,
+    "ratingAvg": 4.6,
+    "downloads": 50,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 600000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 46000000 }
+    ]
+  },
+
+
+
+
+
+  {
+    "id": 10,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Netflix_2015_N_logo.svg",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "description": "Stream movies, TV shows, documentaries, and Netflix Originals anytime. Discover content personalized to your taste and enjoy offline downloads. Create profiles for family members, add favorites, and explore trending lists. Watch in high-quality HD or 4K, with subtitles and multiple languages available. Enjoy seamless streaming across devices.",
+    "size": 100,
+    "reviews": 82,
+    "ratingAvg": 4.4,
+    "downloads": 10,
+    "ratings": [
+      { "name": "1 star", "count": 800000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 3000000 },
+      { "name": "4 star", "count": 9000000 },
+      { "name": "5 star", "count": 65000000 }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "description": "A cloud-based messaging app that ensures fast and secure communication. Send text messages, multimedia, and documents with ease. Join groups, channels, and communities of interest. Protect your privacy with encrypted chats and secret messaging. Schedule messages, create polls, and customize notifications for a smarter chatting experience.",
+    "size": 55,
+    "reviews": 32,
+    "ratingAvg": 4.5,
+    "downloads": 10,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 700000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 24000000 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Snap_Inc_logo.jpg",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "description": "Capture and share moments instantly with friends and family. Send photos and videos that disappear after viewing. Add filters, lenses, and stickers to make every snap creative. Discover stories from people worldwide and explore trending content. Chat via text, voice, or video. Protect your privacy while having fun connecting socially.",
+    "size": 70,
+    "reviews": 29,
+    "ratingAvg": 4.2,
+    "downloads": 10,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 900000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 6000000 },
+      { "name": "5 star", "count": 20000000 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg",
+    "title": "Gmail",
+    "companyName": "Google LLC",
+    "description": "Manage your emails efficiently with Gmail. Send, receive, and organize messages in a user-friendly interface. Access multiple accounts seamlessly. Protect against spam and phishing attempts. Integrate with Google Workspace tools like Calendar and Drive. Stay connected on mobile or desktop while enjoying fast search and smart categorization of emails.",
+    "size": 85,
+    "reviews": 65,
+    "ratingAvg": 4.6,
+    "downloads": 10,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 3000000 },
+      { "name": "4 star", "count": 7000000 },
+      { "name": "5 star", "count": 52000000 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Zoom_Communications_Logo.svg",
+    "title": "Zoom Cloud Meetings",
+    "companyName": "Zoom Video Communications, Inc.",
+    "description": "Connect via high-quality video and audio calls with individuals or large groups. Host webinars, meetings, and virtual events seamlessly. Share screens, files, and presentations during meetings. Schedule sessions and send invites effortlessly. Record meetings for future reference. Enjoy cross-platform support on desktop, mobile, and web for smooth collaboration.",
+    "size": 110,
+    "reviews": 48,
+    "ratingAvg": 4.4,
+    "downloads": 10,
+    "ratings": [
+      { "name": "1 star", "count": 700000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 3000000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 37000000 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Discord_Color_Text_Logo_%282015-2021%29.svg",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "description": "Chat, voice, and video communication for communities, gamers, and friends. Create servers with channels for different topics. Share media, documents, and links easily. Use bots for moderation, games, and utilities. Join interest-based communities or make your own. Customize notifications, roles, and permissions. Stay connected with people worldwide seamlessly.",
+    "size": 120,
+    "reviews": 35,
+    "ratingAvg": 4.7,
+    "downloads": 50,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 29200000 }
+    ]
+  },
+  {
+    "id": 16,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Reddit_logo.png",
+    "title": "Reddit",
+    "companyName": "Reddit Inc.",
+    "description": "Join communities across every interest imaginable. Post, comment, and vote on content. Discover news, memes, discussions, and niche hobbies. Customize feeds according to your preferences. Share media, participate in AMAs, and interact with global users. Enjoy a platform for discussion, debate, entertainment, and learning in one place.",
+    "size": 100,
+    "reviews": 23,
+    "ratingAvg": 4.5,
+    "downloads": 50,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 18000000 }
+    ]
+  },
+  {
+    "id": 17,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Canvas-logo.svg",
+    "title": "Canva",
+    "companyName": "Canva Pty Ltd",
+    "description": "Design graphics, presentations, videos, social media posts, and more easily. Use templates, drag-and-drop features, and creative tools. Collaborate with teams on projects. Export designs in multiple formats. Discover inspiration from millions of user-created designs. Learn and implement design skills quickly, regardless of experience level.",
+    "size": 140,
+    "reviews": 31,
+    "ratingAvg": 4.8,
+    "downloads": 10,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 27000000 }
+    ]
+  },
+  {
+    "id": 18,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
+    "title": "Amazon Shopping",
+    "companyName": "Amazon Mobile LLC",
+    "description": "Browse and shop millions of products from a wide range of categories. Compare prices, read reviews, and find deals. Track orders and receive notifications about delivery status. Save favorite items to wishlists and share with friends. Enjoy a seamless online shopping experience with secure payments and recommendations tailored to your preferences.",
+    "size": 150,
+    "reviews": 77,
+    "ratingAvg": 4.4,
+    "downloads": 100,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 2500000 },
+      { "name": "4 star", "count": 9000000 },
+      { "name": "5 star", "count": 63000000 }
+    ]
+  },
+
+
+
+  
+  {
+    "id": 19,
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg",
+    "title": "TikTok",
+    "companyName": "TikTok Pte. Ltd.",
+    "description": "Create, share, and discover short videos that entertain, educate, and inspire. Use filters, effects, and trending sounds to make engaging content. Follow creators, join challenges, and explore personalized feeds. Comment, like, and interact with videos from users worldwide. Enjoy endless entertainment with AI-powered recommendations tailored to your interests.",
+    "size": 85,
+    "reviews": 11,
+    "ratingAvg": 4.3,
+    "downloads": 50,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 3000000 },
+      { "name": "3 star", "count": 7000000 },
+      { "name": "4 star", "count": 18000000 },
+      { "name": "5 star", "count": 80000000 }
+    ]
+  },
+  {
+    "id": 20,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Duolingo_logo.svg",
+    "title": "Duolingo",
+    "companyName": "Duolingo Inc.",
+    "description": "Learn new languages with fun, interactive lessons. Practice reading, writing, speaking, and listening. Track progress and earn rewards for completing lessons. Explore hundreds of languages, from popular to niche options. Join community challenges and compete with friends. Learn at your own pace with a gamified, engaging, and educational experience.",
+    "size": 70,
+    "reviews": 27,
+    "ratingAvg": 4.7,
+    "downloads": 50,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 22000000 }
+    ]
+  },
+  {
+    "id": 21,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+    "title": "Apple Music",
+    "companyName": "Apple Inc.",
+    "description": "Stream over 90 million songs, curated playlists, and radio stations. Discover new music with personalized recommendations and top charts. Download songs to listen offline. Enjoy exclusive releases and high-quality audio. Create your own playlists and share with friends. Access your music library across all Apple devices seamlessly.",
+    "size": 120,
+    "reviews": 21,
+    "ratingAvg": 4.6,
+    "downloads": 80,
+    "ratings": [
+      { "name": "1 star", "count": 22000 },
+      { "name": "2 star", "count": 18000 },
+      { "name": "3 star", "count": 30000 },
+      { "name": "4 star", "count": 42000 },
+      { "name": "5 star", "count": 1890000 }
+    ]
+  },
+  {
+    "id": 22,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Netflix_2015_N_logo.svg",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "description": "Enjoy endless entertainment with Netflix Originals, movies, and TV shows. Watch anytime, anywhere on your preferred devices. Create profiles for family members and receive personalized recommendations. Stream in HD or 4K quality with multiple language and subtitle options. Download content for offline viewing. Stay updated with trending content worldwide.",
+    "size": 95,
+    "reviews": 75,
+    "ratingAvg": 4.5,
+    "downloads": 15,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 65000 },
+      { "name": "3 star", "count": 90000 },
+      { "name": "4 star", "count": 500000 },
+      { "name": "5 star", "count": 6850000 }
+    ]
+  },
+  {
+    "id": 23,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
+    "title": "Amazon Shopping",
+    "companyName": "Amazon Mobile LLC",
+    "description": "Shop millions of products at competitive prices. Compare products, read reviews, and find great deals. Track orders, receive notifications, and enjoy secure payments. Save favorite items to wishlists, and share with family and friends. Experience a smooth and intuitive online shopping platform accessible anytime, anywhere, with personalized recommendations.",
+    "size": 80,
+    "reviews": 53,
+    "ratingAvg": 4.3,
+    "downloads": 20,
+    "ratings": [
+      { "name": "1 star", "count": 80000 },
+      { "name": "2 star", "count": 75000 },
+      { "name": "3 star", "count": 90000 },
+      { "name": "4 star", "count": 150000 },
+      { "name": "5 star", "count": 4900000 }
+    ]
+  },
+  {
+    "id": 24,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Google_Maps_Logo_2020.svg",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "description": "Navigate your world efficiently with Google Maps. Get turn-by-turn directions, live traffic updates, and estimated travel times. Explore restaurants, shops, and attractions nearby. Access street views, satellite imagery, and public transport routes. Save favorite locations and share with friends. Discover local businesses and plan trips effortlessly with real-time navigation.",
+    "size": 60,
+    "reviews": 90,
+    "ratingAvg": 4.7,
+    "downloads": 50,
+    "ratings": [
+      { "name": "1 star", "count": 120000 },
+      { "name": "2 star", "count": 95000 },
+      { "name": "3 star", "count": 160000 },
+      { "name": "4 star", "count": 800000 },
+      { "name": "5 star", "count": 7825000 }
+    ]
+  },
+  {
+    "id": 25,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Twitter_icon.svg",
+    "title": "X (Twitter)",
+    "companyName": "X Corp.",
+    "description": "Follow real-time news, updates, and discussions on global topics. Post tweets, images, and videos. Engage with communities, participate in trending conversations, and join discussions. Follow accounts of interest and customize your feed. Connect with people worldwide. Access notifications, direct messages, and create content easily from mobile or desktop.",
+    "size": 65,
+    "reviews": 62,
+    "ratingAvg": 4.2,
+    "downloads": 35,
+    "ratings": [
+      { "name": "1 star", "count": 95000 },
+      { "name": "2 star", "count": 120000 },
+      { "name": "3 star", "count": 230000 },
+      { "name": "4 star", "count": 680000 },
+      { "name": "5 star", "count": 5180000 }
+    ]
+  },
+  {
+    "id": 26,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Discord_Color_Text_Logo_%282015-2021%29.svg",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "description": "Connect with friends, communities, and gamers using voice, video, and text. Create servers with multiple channels for different topics. Use moderation bots, games, and utilities to enhance interaction. Share media and documents. Customize roles, permissions, and notifications. Enjoy a safe, interactive, and collaborative environment across all devices.",
+    "size": 85,
+    "reviews": 39,
+    "ratingAvg": 4.6,
+    "downloads": 12,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 65000 },
+      { "name": "3 star", "count": 80000 },
+      { "name": "4 star", "count": 260000 },
+      { "name": "5 star", "count": 3450000 }
+    ]
+  },
+  {
+    "id": 27,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Google_Photos_icon_%282020%29.svg",
+    "title": "Google Photos",
+    "companyName": "Google LLC",
+    "description": "Store, organize, and share photos and videos securely in the cloud. Automatically back up images from your device. Edit photos and create albums. Share memories with friends and family. Access your content from multiple devices seamlessly. Search your photos easily using AI-powered image recognition and facial recognition features.",
+    "size": 70,
+    "reviews": 46,
+    "ratingAvg": 4.6,
+    "downloads": 25,
+    "ratings": [
+      { "name": "1 star", "count": 60000 },
+      { "name": "2 star", "count": 70000 },
+      { "name": "3 star", "count": 100000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 4070000 }
+    ]
+  },
+  {
+    "id": 28,
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg",
+    "title": "TikTok",
+    "companyName": "ByteDance Ltd.",
+    "description": "Create, watch, and share short videos from around the world. Explore trending content, music, and creative challenges. Use filters, effects, and editing tools to make engaging videos. Follow favorite creators and connect with communities. Share content across social media. Enjoy a personalized feed powered by AI for endless entertainment and discovery.",
+    "size": 150,
+    "reviews": 125,
+    "ratingAvg": 4.4,
+    "downloads": 10,
+    "ratings": [
+      { "name": "1 star", "count": 190000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 210000 },
+      { "name": "4 star", "count": 900000 },
+      { "name": "5 star", "count": 11000000 }
+    ]
+  }
+]
+
+
