@@ -46,6 +46,7 @@ const AllApps = () => {
 
 <p>Explore All Trending Apps on the Market developed by us</p>
 </div>
+
       <div className="flex flex-col md:flex-row md:justify-between items-center">
         <h2 className="text-2xl font-bold mb-4 md:mb-0">
           All Apps ({filteredApps.length})

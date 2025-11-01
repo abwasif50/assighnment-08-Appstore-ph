@@ -23,7 +23,7 @@ const Home = () => {
   }, []);
 
   if (loading) {
-    return <p className="text-center mt-10">Loading...</p>;
+    return <p className="text-center text-5xl mt-10">Loading...</p>;
   }
 
   return (
